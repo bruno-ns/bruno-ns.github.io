@@ -1,0 +1,14 @@
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+ia:
+  label: IA
+  permalink: /ia
+  description: Tag para assuntos sobre Inteligência Artificial (IA).
+
+harbour:
+  label: Harbour, xHarbour, Clipper
+  permalink: /harbour
+  description: Harbour é uma linguagem de programação de código aberto, baseada na linguagem Clipper, que é amplamente utilizada para desenvolvimento de aplicativos de negócios. O xHarbour é uma extensão do Harbour, oferecendo recursos adicionais e melhorias. A tag "Harbour, xHarbour, Clipper" abrange tópicos relacionados a essas linguagens de programação, incluindo desenvolvimento, dicas, tutoriais e discussões sobre suas aplicações e comunidades.
