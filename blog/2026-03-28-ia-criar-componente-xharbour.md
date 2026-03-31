@@ -150,11 +150,17 @@ Levei cerca de 11 horas (duas noites de trabalho) para finalizar tudo. O esforç
 | **Subtotal componente** | **1.195** | **Código**      |
 
 ### Arquivos de Contexto da IA
-| Arquivo                | Linhas    | Tipo                  |
-| ---------------------- | --------- | --------------------- |
-| `commit-flow.md`       | 287       | Documentação de fluxo |
-| `component-flow.md`    | 221       | Documentação de fluxo |
-| `estudo.md`            | 79        | Estudo                |
-| `AGENTS.md`            | 601       | Manual do Agente      |
-| `rules/*.md`           | 934       | Regras                |
+| Arquivo              | Linhas    | Tipo                  |
+| -------------------- | --------- | --------------------- |
+| `commit-flow.md`     | 287       | Documentação de fluxo |
+| `component-flow.md`  | 221       | Documentação de fluxo |
+| `estudo.md`          | 79        | Estudo                |
+| `AGENTS.md`          | 601       | Manual do Agente      |
+| `rules/*.md`         | 934       | Regras                |
 | **Subtotal .aicode** | **2.122** | **Documentação**      |
+
+### FLuxo utilizado
+
+Veja que é uma imagem bem resumida mas para aqueles que leram a publicação irá conseguir entender a imagem.
+
+![Diagrama de fluxo técnico detalhado, com texto em português do Brasil, ilustrando um processo de desenvolvimento de software que combina a metodologia Extreme Programming (XP) com inteligência artificial. O diagrama está organizado de cima para baixo e da esquerda para a direita, com setas conectando as seções.](../static/img/2026-03-28-ia-criar-componente-xharbour_fluxo_trabalho_pair_programming_com_ia.png)
